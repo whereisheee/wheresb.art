@@ -15,7 +15,7 @@ html, body, h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(10, 10, 10, 0.2), rgba(0, 0, 0, 0.5)), repeating-linear-gradient(0, transparent, transparent 2px, black 2px, black 2px), url("https://raw.githubusercontent.com/whereisheee/sadface/master/lion_is_here.png");
+  background: linear-gradient(rgba(10, 10, 10, 0.1), rgba(0, 0, 0, 0.5)), repeating-linear-gradient(0, transparent, transparent 2px, black 2px, black 2px), url("https://raw.githubusercontent.com/whereisheee/sadface/master/lion_is_here.png");
   background-size: cover;
   background-position: center;
   z-index: 1;
